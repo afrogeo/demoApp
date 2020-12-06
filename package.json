@@ -1,0 +1,19 @@
+{
+    "name":"helloapp",
+    "version":"1.0.0",
+    "description":"node app",
+    "main":"helloApp.js",
+    "scripts": {
+        "start": "node helloApp.js"
+    },
+    "repository": {
+        "type": "git", 
+        "url":""
+    }, 
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url":""
+    }, 
+    "homepage":""
+}
